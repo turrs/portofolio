@@ -1,0 +1,11 @@
+.container{
+    height:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    width: 5%;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,19 @@
+.container{
+    height:100%;
+    width: 5%;
+    position:absolute;
+    top:0;
+    right:0;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.button{
+
+}
+.wrapper{
+    transform: rotate(90deg) translate(-50%, -50%);
+}

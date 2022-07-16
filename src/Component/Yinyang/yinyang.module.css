@@ -1,0 +1,7 @@
+.imageYin{
+    width: 50px;
+}
+.wrapperImage{
+    display: flex;
+    justify-content: center;
+}
