@@ -4,8 +4,25 @@
     top:0;
     left:0;
     width: 5%;
-    background-color: purple;
+
     display: flex;
     justify-content: center;
     align-items: center;
+    align-self: center;
+    align-content: center;
+    flex-direction: column;
+
+}
+
+.wrapper{
+    display: flex;
+    position: absolute;
+    bottom:100px;
+   
+}
+
+.wrapperButton{
+    display: flex;
+    transform: rotate(-90deg) ;
+    padding:20px
 }

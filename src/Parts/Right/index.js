@@ -6,7 +6,7 @@ function Right() {
   return (
     <div className={styles.container}>
       <div className={styles.wrapper}>
-        <Button>Kanan</Button>
+        <Button title="Work"></Button>
       </div>
     </div>
   );
